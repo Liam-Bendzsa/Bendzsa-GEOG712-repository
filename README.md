@@ -1,4 +1,4 @@
-Liam-Bendzsa_Activity_1
+Bendzsa-GEOG712-Repository
 ================
 Liam Bendzsa
 2026-09-30
