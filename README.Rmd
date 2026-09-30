@@ -1,5 +1,5 @@
 ---
-title: "Liam-Bendzsa_Activity_1"
+title: "Bendzsa-GEOG712-Repository"
 author: "Liam Bendzsa"
 date: "2026-09-30"
 output: rmarkdown::github_document
