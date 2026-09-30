@@ -2,9 +2,7 @@
 title: "Liam-Bendzsa_Activity_1"
 author: "Liam Bendzsa"
 date: "2026-09-30"
-output:
-  pdf_document: default
-  html_document: default
+output: rmarkdown::github_document
 ---
 
 # **Purpose of this repository**
