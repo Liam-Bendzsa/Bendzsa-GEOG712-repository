@@ -14,9 +14,9 @@ be posted to be reviewed by **[paezha](https://github.com/paezha)**, the
 Professor of the course. With that out of the way, here are a few things
 about the individual, Liam Bendzsa.
 
-\##About me
+## About me
 
-\###Credentials
+### Credentials
 
 BSc First Class Honours, Environmental Science - *Vind.*/Dalhousie
 University (2026)

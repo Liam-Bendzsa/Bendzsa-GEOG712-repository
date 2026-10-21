@@ -9,9 +9,9 @@ output: rmarkdown::github_document
 
 This repository is for the activity portions of the graduate course **[GEOG712, Reproducible Research](https://github.com/paezha/Reproducible-Research-Workflow/blob/master/README.md)** offered at McMaster University in Hamilton, ON, Canada. This is *my* (Liam Bendzsa's) version, where all future assignment submissions will be posted to be reviewed by **[paezha](https://github.com/paezha)**, the Professor of the course. With that out of the way, here are a few things about the individual, Liam Bendzsa.
 
-##About me
+## About me
 
-###Credentials
+### Credentials
 
 BSc First Class Honours, Environmental Science - *Vind.*/Dalhousie University (2026)
 
