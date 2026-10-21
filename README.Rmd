@@ -61,7 +61,7 @@ ___
 ***
 
 *I fixed this graph to make sense*
-```{r}
+```{r Cars Graph}
 plot(cars, col = "goldenrod3", pch= 21, bg= "cyan4", 
      xlab = "Speed (mph)", ylab = "Stopping distance (ft)")
   title(main = "Car Brakes in the 1920s", 
