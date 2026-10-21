@@ -7,7 +7,15 @@ output: rmarkdown::github_document
 
 # **Purpose of this repository**
 
-This repository is for the activity portions of the graduate course GEOG712 offered at McMaster University in Hamilton, ON, Canada. This is *my* (Liam Bendzsa's) version, where all future assignment submissions will be posted to be reviewed by **[paezha](https://github.com/paezha)**, the Professor of the course. With that out of the way, here are a few things about the individual, Liam Bendzsa.
+This repository is for the activity portions of the graduate course **[GEOG712, Reproducible Research](https://github.com/paezha/Reproducible-Research-Workflow/blob/master/README.md)** offered at McMaster University in Hamilton, ON, Canada. This is *my* (Liam Bendzsa's) version, where all future assignment submissions will be posted to be reviewed by **[paezha](https://github.com/paezha)**, the Professor of the course. With that out of the way, here are a few things about the individual, Liam Bendzsa.
+
+##About me
+
+###Credentials
+
+BSc First Class Honours, Environmental Science - *Vind.*/Dalhousie University (2026)
+
+Master's Student - McMaster University (2026-present)
 
 # Liam's Research Interest
 
