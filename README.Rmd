@@ -1,7 +1,7 @@
 ---
 title: "Bendzsa-GEOG712-Repository"
 author: "Liam Bendzsa"
-date: "2026-09-30"
+date: "2026-10-27"
 output: rmarkdown::github_document
 ---
 
@@ -10,9 +10,9 @@ output: rmarkdown::github_document
 This repository is for the activity portions of the graduate course **[GEOG712, Reproducible Research](https://github.com/paezha/Reproducible-Research-Workflow/blob/master/README.md)** offered at McMaster University in Hamilton, ON, Canada. This is *my* (Liam Bendzsa's) version, where all future assignment submissions will be posted to be reviewed by **[paezha](https://github.com/paezha)**, the Professor of the course. With that out of the way, here are a few things about the individual, Liam Bendzsa.
 
 ## Organization of Project
-All raw data goes into **DATA_RAW**.
-All clean/transformed data goes into **Cleaned_Data**.
-All figures/images go into **Figures**.
+All raw data goes into ***DATA_RAW***.
+All clean/transformed data goes into ***Cleaned_Data***.
+All figures/images go into ***Figures***.
 
 ## About me
 
@@ -64,10 +64,9 @@ ___
 
 # A Chunk of Code, But Hidden
 ***
-```{r Temperature Anomaly by El Nino and La Nina, echo=FALSE, fig.align='center', fig.cap= "A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska & Ritchie, 2025)." }
-library("here")
-library("knitr")
-include_graphics(here("Figures", "global-temperature-anomalies-by-el-nino-la-nina.png"))
+```{r Temperature Anomaly by El Nino and La Nina, echo=FALSE, fig.align='center', fig.cap= "Figure 1. A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska & Ritchie, 2025)." }
+
+knitr::include_graphics(here::here("Figures", "global-temperature-anomalies-by-el-nino-la-nina.png"))
 ```
 
 

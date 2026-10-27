@@ -1,7 +1,7 @@
 Bendzsa-GEOG712-Repository
 ================
 Liam Bendzsa
-2026-09-30
+2026-10-27
 
 # **Purpose of this repository**
 
@@ -16,8 +16,8 @@ about the individual, Liam Bendzsa.
 
 ## Organization of Project
 
-All raw data goes into **DATA_RAW**. All clean/transformed data goes
-into **Cleaned_Data**. All figures/images go into **Figures**.
+All raw data goes into ***DATA_RAW***. All clean/transformed data goes
+into ***Cleaned_Data***. All figures/images go into ***Figures***.
 
 ## About me
 
@@ -85,16 +85,13 @@ $$
 
 ------------------------------------------------------------------------
 
-    ## here() starts at /Users/liambendzsa/Documents/Files/Grad712/Geog_R_repository/Bendzsa-GEOG712-repository
-
-    ## Warning: package 'knitr' was built under R version 4.3.3
-
 <div class="figure" style="text-align: center">
 
-<img src="Figures/global-temperature-anomalies-by-el-nino-la-nina.png" alt="A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska &amp; Ritchie, 2025)."  />
+<img src="Figures/global-temperature-anomalies-by-el-nino-la-nina.png" alt="Figure 1. A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska &amp; Ritchie, 2025)."  />
 <p class="caption">
 
-A very neat graphic that Our World in Data put together. Taken from
+Figure 1. A very neat graphic that Our World in Data put together. Taken
+from
 [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina)
 (Samborska & Ritchie, 2025).
 </p>
