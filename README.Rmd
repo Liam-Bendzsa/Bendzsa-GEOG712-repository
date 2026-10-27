@@ -9,7 +9,10 @@ output: rmarkdown::github_document
 
 This repository is for the activity portions of the graduate course **[GEOG712, Reproducible Research](https://github.com/paezha/Reproducible-Research-Workflow/blob/master/README.md)** offered at McMaster University in Hamilton, ON, Canada. This is *my* (Liam Bendzsa's) version, where all future assignment submissions will be posted to be reviewed by **[paezha](https://github.com/paezha)**, the Professor of the course. With that out of the way, here are a few things about the individual, Liam Bendzsa.
 
-## Organazation
+## Organization of Project
+All raw data goes into **DATA_RAW**.
+All clean/transformed data goes into **Cleaned_Data**.
+All figures/images go into **Figures**.
 
 ## About me
 
@@ -59,17 +62,12 @@ Sia | Vocalist/writer of *This is Acting*.
 Ursula K. LeGuin | Master of Fiction.
 ___
 
-# A Chunk of Code
+# A Chunk of Code, But Hidden
 ***
-
-*I fixed this graph to make sense*
-```{r Cars Graph}
-plot(cars, col = "goldenrod3", pch= 21, bg= "cyan4", 
-     xlab = "Speed (mph)", ylab = "Stopping distance (ft)")
-  title(main = "Car Brakes in the 1920s", 
-        sub = "Created by Liam Bendzsa using cars", 
-        font.sub = "2", cex.sub = "0.75", 
-        font.main = "4", cex.main = "1.5")
+```{r Temperature Anomaly by El Nino and La Nina, echo=FALSE, fig.align='center', fig.cap= "A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska & Ritchie, 2025)." }
+library("here")
+library("knitr")
+include_graphics(here("Figures", "global-temperature-anomalies-by-el-nino-la-nina.png"))
 ```
 
 

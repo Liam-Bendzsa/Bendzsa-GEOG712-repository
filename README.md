@@ -14,6 +14,11 @@ be posted to be reviewed by **[paezha](https://github.com/paezha)**, the
 Professor of the course. With that out of the way, here are a few things
 about the individual, Liam Bendzsa.
 
+## Organization of Project
+
+All raw data goes into **DATA_RAW**. All clean/transformed data goes
+into **Cleaned_Data**. All figures/images go into **Figures**.
+
 ## About me
 
 ### Credentials
@@ -76,19 +81,22 @@ $$
 
 ------------------------------------------------------------------------
 
-# A Chunk of Code
+# A Chunk of Code, But Hidden
 
 ------------------------------------------------------------------------
 
-*I fixed this graph to make sense*
+    ## here() starts at /Users/liambendzsa/Documents/Files/Grad712/Geog_R_repository/Bendzsa-GEOG712-repository
 
-``` r
-plot(cars, col = "goldenrod3", pch= 21, bg= "cyan4", 
-     xlab = "Speed (mph)", ylab = "Stopping distance (ft)")
-  title(main = "Car Brakes in the 1920s", 
-        sub = "Created by Liam Bendzsa using cars", 
-        font.sub = "2", cex.sub = "0.75", 
-        font.main = "4", cex.main = "1.5")
-```
+    ## Warning: package 'knitr' was built under R version 4.3.3
 
-![](README_files/figure-gfm/Cars%20Graph-1.png)<!-- -->
+<div class="figure" style="text-align: center">
+
+<img src="Figures/global-temperature-anomalies-by-el-nino-la-nina.png" alt="A very neat graphic that Our World in Data put together. Taken from [here](https://ourworldindata.org/global-temperatures-el-nino-la-nina) (Samborska &amp; Ritchie, 2025)."  />
+<p class="caption">
+
+A very neat graphic that Our World in Data put together. Taken from
+[here](https://ourworldindata.org/global-temperatures-el-nino-la-nina)
+(Samborska & Ritchie, 2025).
+</p>
+
+</div>
