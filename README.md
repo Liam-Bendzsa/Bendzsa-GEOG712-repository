@@ -1,7 +1,7 @@
 Bendzsa-GEOG712-Repository
 ================
 Liam Bendzsa
-2026-10-27
+2026-11-03
 
 # **Purpose of this repository**
 
@@ -19,18 +19,47 @@ about the individual, Liam Bendzsa.
 All raw data goes into ***DATA_RAW***. All clean/transformed data goes
 into ***Cleaned_Data***. All figures/images go into ***Figures***.
 
+### Project Data
+
+Most of the data use for my thesis will be sourced from the city of
+Hamilton’s bike share program and e-scooter data, obtained directly form
+the city of Hamilton (sourced by my supervisor, Dr. Darren Scott). The
+data set already exists and goes back to the inception of the bike share
+program in Hamilton There are no ethical or moral issues with this data.
+Individual users and bikes are tracked, but the data pertaining to that
+information is non-identifying. It will also be relatively easy to share
+the results and methodologies of my research openly because open tool
+and data sharing is a priority of the
+*[TransLAB](https://experts.mcmaster.ca/people/scottdm)*.
+
+### Data Management
+
+**Data Backup**: Files will be stored locally, on a private repository
+(until project completion, whereupon it will be made public), and on the
+McMaster cloud. A copy of raw data sets will be kept for all data used.
+
+**File Formats**: Files may be written in proprietary formats (such as
+word), but all end outputs shall be open formats. Word files will be
+converted to .Rmd files and be made public on GitHub (if not already
+written in .Rmd). Excel will be used, but all outputs will be saved to
+.csv files.
+
+**Naming**: Files will be named beginning with a descriptor, then
+initials, then date (YYYY/MM/DD), and a version number for files not
+created in a reproducible environment, such as this file. To provide an
+example, “RawBikeRouteData_LGB_20261111.”
+
+**Standards**: American Psychological Association (APA) 7th edition
+style will be used in all applicable documents. Zotero will be used for
+citation management, and will allow easily changing the final output
+file’s reference style to match journal specification, for example.
+
+**Documentation**: Original metadata should follow modified data and be
+updated to reflect any changes in format or category.
+
 ## About me
 
-### Credentials
-
-BSc First Class Honours, Environmental Science - *Vind.*/Dalhousie
-University (2026)
-
-Master’s Student - McMaster University (2026-present)
-
-# Liam’s Research Interest
-
-------------------------------------------------------------------------
+### Liam’s Research Interest
 
 My primary research interest involves the use of **[modal
 shifts](https://en.wikipedia.org/wiki/Sustainable_transport)** to reduce
@@ -39,6 +68,13 @@ For example, *exercise*, *socialization*, and *exposure to nature* are
 all things that are not found in the dominant North American mode of
 transport, the car, but are found in modes of **[active
 transportation](https://www.canada.ca/en/public-health/services/being-active/active-transportation.html)**
+
+### Credentials
+
+BSc First Class Honours, Environmental Science - *Vind.*/Dalhousie
+University (2026)
+
+Master’s Student - McMaster University (2026-present)
 
 ------------------------------------------------------------------------
 
